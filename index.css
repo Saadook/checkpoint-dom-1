@@ -1,0 +1,22 @@
+.cart-container{
+    width: 50%;
+    margin: auto
+}
+.cart-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.Quantity-controls{
+    display: flex;
+    align-items: center;
+}
+.Quantity-controls button {
+width: 30px;
+height: 30px;
+margin: 0 5px;
+}
+.total-price{
+    text-align: right;
+}
